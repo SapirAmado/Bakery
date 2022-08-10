@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #ffffde;
+}
+
+.home {
+  text-align: center;
+  color: #c499ba;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik Moonrocks", cursive;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik Moonrocks", cursive;
+}
+
+.center hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #c499ba;
+  background-color: #f9f2ed;
+  border-width: 4px;
+  width: auto;
+}
+
+.center h1 {
+  color: #c499ba;
+}
+
+.center h2 {
+  color: #f4e06d;
+}
+
+.paragraph {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ff7396;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik Moonrocks", cursive;
+  font-family: "Secular One", sans-serif;
+  font-family: "Varela Round", sans-serif;
+}
+
+.card {
+  color: #ff7396;
+  box-shadow: #c499ba;
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik Moonrocks", cursive;
+  font-family: "Secular One", sans-serif;
+  font-family: "Varela Round", sans-serif;
+}
